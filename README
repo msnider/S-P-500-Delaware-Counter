@@ -1,0 +1,10 @@
+Description:
+Prints the states of incorporation for each of the S&P 500 companies
+Displays the number incorporated in Delaware
+
+Requirements:
+Requires BeautifulSoup
+
+Useage:
+python delware.py
+
